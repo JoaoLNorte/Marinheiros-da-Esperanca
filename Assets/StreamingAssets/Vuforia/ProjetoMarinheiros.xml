@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="sagres1679019292" size="1.000000 0.705143" />
+    <ImageTarget name="heli1679019293" size="1.000000 0.710195" />
+    <ImageTarget name="arab11679019292" size="1.000000 0.704937" />
+    <ImageTarget name="Capa1679019292" size="1.000000 0.704881" />
+    <ImageTarget name="viking1679019293" size="1.000000 0.712313" />
+    <ImageTarget name="arab21679019232" size="1.000000 0.706286" />
+  </Tracking>
+</QCARConfig>
